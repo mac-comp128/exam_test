@@ -41,6 +41,7 @@ After completing the exam, you will be asked to sign an honor statement pledging
 - [Learning Goal 1: Arrays](LG01-Arrays.md)
 - [Learning Goal 2: Time Complexity](LG02-TimeComplexity.md)
 - [Learning Goal 3: Stacks](LG03-Stacks.md)
+- [Solutions](Solutions.md) **Do not look at these until you have attempted each problem**
 
 
 ## Submission:
