@@ -48,10 +48,10 @@ for(int i=0; i<10; i++) {
 }
 ```
 
-Answer: O(n^2)
+Answer: O(1)
 
 
-Explanation:  Assume that n = 10. The outer loop runs n times. The inner loop runs n/2 times. The line of code that sums can be done in constant time. Since the loops are nested the runtime multiplies together to run n^2/2 times, but we drop the 1/2 multiplier to simplify.
+Explanation:  Each loop runs a constant number of times, either 10 or 5, which does not depend on the size of any input. We simplify the O(50) to O(1).
 
 
 
